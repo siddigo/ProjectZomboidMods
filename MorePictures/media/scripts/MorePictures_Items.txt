@@ -1,0 +1,37 @@
+module MorePictures
+{
+	imports
+	{
+		Base
+	}
+
+	item NathanPic
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.2,
+		Type	=	Normal,
+		DisplayName	=	Picture of Nathan,
+		Icon	=	NathanPictureIcon,
+		WorldStaticModel = NathanPicture_Ground,
+	}
+	
+	item DaniloPic
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.2,
+		Type	=	Normal,
+		DisplayName	=	Picture of Danilo,
+		Icon	=	DaniloPictureIcon,
+		WorldStaticModel = DaniloPicture_Ground,
+	}
+
+	item EltonPic
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.2,
+		Type	=	Normal,
+		DisplayName	=	Picture of Elton,
+		Icon	=	EltonPictureIcon,
+		WorldStaticModel = EltonPicture_Ground,
+	}
+}

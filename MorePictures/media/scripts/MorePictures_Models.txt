@@ -1,0 +1,23 @@
+module MorePictures
+{
+	model NathanPicture_Ground
+    {
+        mesh = WorldItems/KatePic,
+        texture = WorldItems/PictureOfNathan,
+        scale = 0.4,
+    }
+
+    model DaniloPicture_Ground
+    {
+        mesh = WorldItems/KatePic,
+        texture = WorldItems/PictureOfDanilo,
+        scale = 0.4,
+    }
+    
+    model EltonPicture_Ground
+    {
+        mesh = WorldItems/KatePic,
+        texture = WorldItems/PictureOfElton,
+        scale = 0.4,
+    }
+}
