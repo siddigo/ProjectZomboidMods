@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "More Pictures"
+        "More Pictures",
+        "Mod Template"
     ]
 }
