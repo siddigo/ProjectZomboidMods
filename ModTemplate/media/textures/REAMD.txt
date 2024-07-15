@@ -1,0 +1,5 @@
+Adicione aqui os arquivos de ícones dos itens
+
+Formato: png
+Tamanho: 32x32
+Nome: Iniciado pelo prefixo "Item_", ex: Item_IconItemName

@@ -1,0 +1,14 @@
+/*
+    Informações do mod para o jogo
+    name: Nome na lista de mods selecionáveis
+    id: Id do Mod, necessário para os módulos ingame
+    description: o que aparece na descrição do mod
+    poster: imagem do mod, formato png
+
+    O poster deve estar na mesma pasta que este arquivo, com o nome indicado.
+*/
+
+name=More Pictures
+id=MorePictures
+description=Adds more pictures to the game
+poster=MorePicturesPoster.png

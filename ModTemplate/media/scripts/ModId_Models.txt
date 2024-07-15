@@ -1,0 +1,19 @@
+/*  
+    Nesse arquivo são definidos os modelos 3d (juntando modelo com textura e tamanho)
+    ModId - Id do mod criado
+
+    ItenModel_Ground - Nome do modelo 3d
+    mesh - Local do model fbx
+    texture - local da textura png
+    scale - tamanho no mundo, padrão 0.4
+*/
+
+module ModId
+{
+    model ItenModel_Ground
+    {
+        mesh = WorldItems/3dItemModel,
+        texture = WorldItems/3dItemTexture,
+        scale = 0.4,
+    }
+}

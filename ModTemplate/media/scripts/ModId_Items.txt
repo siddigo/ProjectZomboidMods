@@ -1,0 +1,30 @@
+/*
+   Aqui Adicionamos os scripts de criação de itens
+   o modulo sempre leva o id do mod em questão.
+
+   ItemId é o código do item para definições
+   DisplayCategory é a categoria do item
+   Weight é o peso do item
+   Type - Ainda não sei
+   DisplayName é o nome para o jogo
+   Icon é como é exibido no menu
+   WorldSatatiModel é o modelo 3d quando dropado 
+*/
+
+module ModId
+{
+    imports
+    {
+        Base
+    }
+
+    item ItemId
+    {
+        DisplayCategory = Junk,
+        Weight	=	0.2,
+        Type	=	Normal,
+        DisplayName	=	Item Name,
+        Icon	=	ItemIcon,
+        WorldStaticModel = ItenModel_Ground,
+    }
+}
