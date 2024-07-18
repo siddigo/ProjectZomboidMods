@@ -10,7 +10,7 @@ module MorePictures
 	    DisplayCategory = Junk,
 		Weight	=	0.2,
 		Type	=	Normal,
-		DisplayName	=	Picture of Nathan,
+		DisplayName	=	Foto de Nathan,
 		Icon	=	NathanPictureIcon,
 		WorldStaticModel = NathanPicture_Ground,
 	}
@@ -20,7 +20,7 @@ module MorePictures
 	    DisplayCategory = Junk,
 		Weight	=	0.2,
 		Type	=	Normal,
-		DisplayName	=	Picture of Danilo,
+		DisplayName	=	Foto de Danilo,
 		Icon	=	DaniloPictureIcon,
 		WorldStaticModel = DaniloPicture_Ground,
 	}
@@ -30,8 +30,28 @@ module MorePictures
 	    DisplayCategory = Junk,
 		Weight	=	0.2,
 		Type	=	Normal,
-		DisplayName	=	Picture of Elton,
+		DisplayName	=	Foto de Elton,
 		Icon	=	EltonPictureIcon,
 		WorldStaticModel = EltonPicture_Ground,
+	}
+	
+	item BrunoPic
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.2,
+		Type	=	Normal,
+		DisplayName	=	Foto de Bruno,
+		Icon	=	BrunoPictureIcon,
+		WorldStaticModel = BrunoPicture_Ground,
+	}
+	
+	item SidneiPic
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.2,
+		Type	=	Normal,
+		DisplayName	=	Foto de Sidnei,
+		Icon	=	SidneiPictureIcon,
+		WorldStaticModel = SidneiPicture_Ground,
 	}
 }

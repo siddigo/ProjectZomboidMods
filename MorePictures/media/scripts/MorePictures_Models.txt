@@ -19,5 +19,19 @@ module MorePictures
         mesh = WorldItems/KatePic,
         texture = WorldItems/PictureOfElton,
         scale = 0.4,
+    } 
+
+    model BrunoPicture_Ground
+    {
+        mesh = WorldItems/KatePic,
+        texture = WorldItems/PictureOfBruno,
+        scale = 0.4,
+    }
+    
+    model SidneiPicture_Ground
+    {
+        mesh = WorldItems/KatePic,
+        texture = WorldItems/PictureOfSidnei,
+        scale = 0.4,
     }
 }
